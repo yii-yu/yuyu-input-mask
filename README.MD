@@ -10,9 +10,10 @@ yuyu-input-mask
 
 Ссылка development (будет использоваться самая последняя версия):
 
-https://rawgit.com/yii-yu/yuyu-modal/master/js/yuyu-input-mask.js
+https://rawgit.com/yii-yu/yuyu-input-mask/master/js/yuyu_input_mask.js
 
 Ссылка production(текущая версия в дальнейшем не будет меняться):
+https://cdn.rawgit.com/yii-yu/yuyu-input-mask/d383af8b/js/yuyu_input_mask.js
 
 Подключается на странице как обычный js файл, например:
 <script type="text/javascript" src="https://rawgit.com/yii-yu/yuyu-modal/master/js/yuyu-input-mask.js"></script>
